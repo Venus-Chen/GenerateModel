@@ -1,0 +1,8 @@
+# 忽略obj文件夹
+obj/
+
+# 忽略bin文件夹
+bin/
+
+# 忽略NuGet包文件夹
+/packages
