@@ -1,0 +1,8 @@
+{
+    "CustomExcelFilePath": "D:\\Template\\excelTemplate.xlsx",
+    "CustomHtmlFilePath": "D:\\Template\\htmlTemplate.html",
+    "OutPutDirectory": "D:\\Template\\OutPut",
+    "UseCustomFilePath": "false",
+    "ExcludeSheetName": 
+    ["接口清单"],
+}
